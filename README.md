@@ -7,7 +7,7 @@ This is an automated Excel-based data processing and analysis system designed to
 ### Project Overview
 
 This project simulates a real-world business scenario where shopping transaction data is received monthly in separate files. Instead of manually copying and consolidating each month's transactions, I built a reusable workflow using Power Query that automatically incorporates new monthly data when the source folder is updated and the query is refreshed. 
-This project uses advanced Excel functions including XLOOKUP, INDEX-MATCH, UNIQUE, SORT, and LET to create useful analysis and reporting outputs.
+This project uses advanced Excel functions including XLOOKUP and INDEX-MATCH to create useful analysis and reporting outputs.
 
 ### Business Problem
 
